@@ -1,0 +1,19 @@
+- name: Jen Jen Chung
+  image: /assets/images/jenjen.png
+  position: Associate Professor
+  affiliation: The University of Queensland
+
+- name: Luca Carlone
+  image: /assets/images/luca.png
+  position: Associate Professor
+  affiliation: Massachusetts Institute of Technology
+
+- name: Julian F&ouml;rster
+  image: /assets/images/julian.png
+  position: Doctoral candidate
+  affiliation: ETH Z&uuml;rich
+  
+- name: Federico Tombari
+  image: /assets/images/federico.png 
+  position: Lecturer, Research Scientist
+  affiliation: TUM, Google
